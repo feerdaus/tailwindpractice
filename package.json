@@ -1,0 +1,22 @@
+{
+  "name": "tailwindpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i source/style.css -o public/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feerdaus/tailwindpractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feerdaus/tailwindpractice/issues"
+  },
+  "homepage": "https://github.com/feerdaus/tailwindpractice#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
